@@ -1,0 +1,26 @@
+{
+  "name": "codesong",
+  "displayName": "codesong",
+  "publisher": "connor4312",
+  "description": "Fork of Dayle Rees's Earthsong theme with improvements for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connor4312/codesong.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codesong",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codesong-color-theme.json"
+      }
+    ]
+  }
+}
