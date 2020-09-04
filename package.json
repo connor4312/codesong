@@ -3,7 +3,7 @@
   "displayName": "codesong",
   "publisher": "connor4312",
   "description": "Fork of Dayle Rees's Earthsong theme with improvements for VS Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.48.0"
   },
