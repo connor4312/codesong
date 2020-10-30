@@ -76,7 +76,7 @@
     },
     {
       "name": "Storage type",
-      "scope": "storage.type",
+      "scope": ["storage.type", "keyword.other.fn.rust", "keyword.other.rust"],
       "settings": {
         "fontStyle": "",
         "foreground": "#95CC5E"
@@ -418,20 +418,20 @@
     "editor.foreground": "#EBD1B7",
     "editorWhitespace.foreground": "#3b3a32",
     "editor.lineHighlightBackground": "#45403B",
-		"editor.selectionBackground": "#DB784D4D",
-		"activityBar.background": "#2F2B26",
-		"statusBar.noFolderBackground": "#2F2B26",
-		"activityBarBadge.background": "#D76538",
-		"sideBar.background": "#2F2B26",
-		"sideBarSectionHeader.background": "#26221E",
-		"activityBar.foreground": "#7a7a7a",
-		"statusBar.background": "#36312C",
-		"statusBar.foreground": "#7a7a7a",
-		"statusBar.debuggingForeground": "#fff",
-		"editorWarning.foreground": "#F8BB39",
-		"editorInfo.foreground": "#00A8C6",
-		"debugIcon.breakpointForeground": "#D76538",
-		"editorError.foreground": "#D76538",
-		"editor.onTypeRenameBackground": "#D76538"
+    "editor.selectionBackground": "#DB784D4D",
+    "activityBar.background": "#2F2B26",
+    "statusBar.noFolderBackground": "#2F2B26",
+    "activityBarBadge.background": "#D76538",
+    "sideBar.background": "#2F2B26",
+    "sideBarSectionHeader.background": "#26221E",
+    "activityBar.foreground": "#7a7a7a",
+    "statusBar.background": "#36312C",
+    "statusBar.foreground": "#7a7a7a",
+    "statusBar.debuggingForeground": "#fff",
+    "editorWarning.foreground": "#F8BB39",
+    "editorInfo.foreground": "#00A8C6",
+    "debugIcon.breakpointForeground": "#D76538",
+    "editorError.foreground": "#D76538",
+    "editor.onTypeRenameBackground": "#D76538"
   }
 }
