@@ -414,5 +414,12 @@
     "debugIcon.breakpointForeground": "#D76538",
     "editorError.foreground": "#D76538",
     "sash.hoverBorder": "#db784d85",
+
+    "editorBracketHighlight.foreground1": "#D76538",
+    "editorBracketHighlight.foreground2": "#F8BB39",
+    "editorBracketHighlight.foreground3": "#00A8C6",
+    "editorBracketHighlight.foreground4": "#95CC5E",
+    "editorBracketHighlight.foreground5": "#e61f44",
+    "editorBracketHighlight.foreground6": "#D76538",
   }
 }

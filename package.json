@@ -7,6 +7,9 @@
   "engines": {
     "vscode": "^1.48.0"
   },
+  "keywords": [
+    "daylerees/colour-schemes"
+  ],
   "categories": [
     "Themes"
   ],
